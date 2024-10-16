@@ -1,4 +1,26 @@
 <p align="center">
+  *After downloading recommend delete the release to avoid any problems with Go.ogle*
+
+ * Others:
+
+https://filebin.net/nmhml1wk0oi1dlev 22/10 Expire
+
+YT 19.41.3
+
+TM 7.23.3
+
+https://armconverter.com/decryptedappstore/us/youtube
+
+https://decrypt.day
+                                                                                                                                                                                                                                                                                                                                                                                 
+https://github.com/dayanch96/YTLite 5.0.2
+
+https://github.com/thaibm92/YouPiP 1.8.14
+
+https://github.com/34306/Patched-TS-App 1.0
+
+C:\Users\Admin\AppData\Local\Sideloadly\materials
+
   <img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Banner.png" alt="YTLitePlus Banner" />
 </p>
 
