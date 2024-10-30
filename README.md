@@ -15,7 +15,7 @@ https://decrypt.day
                                                                                                                                                                                                                                                                                                                                                                                  
 https://github.com/dayanch96/YTLite 5.0.2
 
-https://github.com/thaibm92/YouPiP 1.8.15 (error loading ưith YT 19.43.2)
+https://github.com/thaibm92/YouPiP 1.8.15 (error loading with YT 19.43.2)
 
 https://github.com/34306/Patched-TS-App 1.0
 
