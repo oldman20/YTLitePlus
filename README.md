@@ -14,6 +14,44 @@
 <a href="https://github.com/YTLitePlus/YTLitePlus/commit"><img src="https://custom-icon-badges.demolab.com/github/last-commit/Balackburn/YTLitePlus?style=flat&color=black&labelColor=black&logo=history&logoColor=white&label=Last commit" alt="Badge"></img></a>
 <a href="https://github.com/YTLitePlus/YTLitePlus/releases/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/Balackburn/YTLitePlus?labelColor=black&style=flat&color=black&label=Latest%20release" alt="Badge"></img></a>
 
+<p align="center">
+  *After downloading recommend delete the release to avoid any problems with Go.ogle*
+
+ * Others:
+
+https://filebin.net/8ut4ak2grvzo2oxu 11/11 Expire
+
+YT 19.44.4
+
+TM 7.26.1
+
+https://armconverter.com/decryptedappstore/us/youtube
+
+https://decrypt.day
+                                                                                                                                                                                                                                                                                                                                                                                 
+https://github.com/dayanch96/YTLite 5.0.2
+
+https://github.com/thaibm92/YouPiP 1.8.15 (error loading with YT 19.43.2)
+
+https://github.com/34306/Patched-TS-App 1.0
+
+C:\Users\Admin\AppData\Local\Sideloadly\materials
+
+  <img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Banner.png" alt="YTLitePlus Banner" />
+</p>
+
+<a href="https://tinyurl.com/YTLiteAltstore"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore.png" height="70"></a>
+&nbsp;
+<a href="https://balackburn.github.io/YTLitePlus"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Website.png" height="70"></a>
+&nbsp;
+<a href="https://ytliteplus.github.io#download"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Download.png" height="70"></a>
+&nbsp;
+
+![GitHub issues](https://img.shields.io/github/issues-raw/Balackburn/YTLitePlus?style=flat&labelColor=%23000000&color=%23000000)
+[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20iPadOS%2014.0%2B-black?labelColor=black&style=flat)](https://developer.apple.com/iphone/index.action)
+<a href="https://github.com/YTLitePlus/YTLitePlus/commit"><img src="https://custom-icon-badges.demolab.com/github/last-commit/Balackburn/YTLitePlus?style=flat&color=black&labelColor=black&logo=history&logoColor=white&label=Last commit" alt="Badge"></img></a>
+<a href="https://github.com/YTLitePlus/YTLitePlus/releases/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/Balackburn/YTLitePlus?labelColor=black&style=flat&color=black&label=Latest%20release" alt="Badge"></img></a>
+
 # Table of Contents
 <a href="#credits"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/TableOfContents/Credits.png" width="170"></a>
 
