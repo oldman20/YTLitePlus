@@ -3,19 +3,19 @@
 
  * Others:
 
-https://filebin.net/i0rmm9m8xzkzivzj 24/11 Expire
+https://filebin.net/shs4ip38jyebs3ld 08/12 Expire
 
-YT 19.45.4
+YT 19.47.7
 
-TM 7.27.2
+TM 7.29.
 
 https://armconverter.com/decryptedappstore/us/youtube
 
 https://decrypt.day
                                                                                                                                                                                                                                                                                                                                                                                  
-https://github.com/dayanch96/YTLite 5.0.2
+https://github.com/dayanch96/YTLite 5.1
 
-https://github.com/thaibm92/YouPiP 1.8.15 (error loading with YT 19.43.2)
+https://github.com/thaibm92/YouPiP 1.8.17 (since 1.8.15 error loading with YT 19.43.2)
 
 https://github.com/34306/Patched-TS-App 1.0
 
