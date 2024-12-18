@@ -5,9 +5,9 @@
 
 https://filebin.net/shs4ip38jyebs3ld 08/12 Expire
 
-YT 19.47.7
+YT 19.49.7
 
-YTM 7.29.1
+YTM 7.31.2
 
 https://armconverter.com/decryptedappstore/us/youtube
 
