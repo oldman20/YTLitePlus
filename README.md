@@ -13,7 +13,7 @@ https://armconverter.com/decryptedappstore/us/youtube
 
 https://decrypt.day
                                                                                                                                                                                                                                                                                                                                                                                  
-https://github.com/dayanch96/YTLite 5.1
+https://github.com/dayanch96/YTLite 5.1 (has no PiP mode)
 
 https://github.com/thaibm92/YouPiP 1.8.19 (since 1.8.15 error loading with YT 19.43.2)
 
