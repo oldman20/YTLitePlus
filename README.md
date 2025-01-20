@@ -3,7 +3,7 @@
 
  * Others:
 
-https://filebin.net/mq0mbhxvx93f7a7m 08/01 Expire
+https://filebin.net/mq0mbhxvx93f7a7m 21/01 Expire
 
 YT 20.02.3
 
@@ -13,7 +13,7 @@ https://armconverter.com/decryptedappstore/us/youtube           https://decrypt.
 
 https://github.com/dayanch96/YTLite 5.1 (has no PiP mode)
 
-https://github.com/thaibm92/YouPiP 1.8.19 (since 1.8.15 error loading with YT 19.43.2)
+https://github.com/thaibm92/YouPiP 1.12.1 (since 1.8.15 error loading with YT 19.43.2)
 
 https://github.com/34306/Patched-TS-App 1.0
 
