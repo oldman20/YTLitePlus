@@ -13,11 +13,11 @@ https://armconverter.com/decryptedappstore/us/youtube           https://decrypt.
 
 https://github.com/dayanch96/YTLite 5.1 (has no PiP mode)
 
-https://github.com/thaibm92/YouPiP 1.12.1 (since 1.8.15 error loading with YT 19.43.2)
+https://github.com/thaibm92/YouPiP 1.12.2 (since 1.8.15 error loading with YT 19.43.2)
 
 https://github.com/34306/Patched-TS-App 1.0
 
-C:\Users\Admin\AppData\Local\Sideloadly\materials
+C:\Users\Admin\AppData\Local\Sideloadly\MATERIALS
 
   <img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Banner.png" alt="YTLitePlus Banner" />
 </p>
