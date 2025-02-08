@@ -17,7 +17,7 @@ https://github.com/thaibm92/YouPiP 1.12.2 (since 1.8.15 error loading with YT 19
 
 https://github.com/34306/Patched-TS-App 1.0
 
-C:\Users\Admin\AppData\Local\Sideloadly\MATERIALS
+`C:\Users\Administrator\AppData\Local\Sideloadly\METARIALS`
 
   <img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Banner.png" alt="YTLitePlus Banner" />
 </p>
