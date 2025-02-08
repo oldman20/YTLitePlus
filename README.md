@@ -9,7 +9,7 @@ YT 20.05.4
 
 YTM 8.05.2
 
-https://armconverter.com/decryptedappstore/us/youtube           https://decrypt.day
+https://armconverter.com/decryptedappstore/us/youtube     ||      https://decrypt.day
 
 https://github.com/dayanch96/YTLite 5.1 (has no PiP mode)
 
