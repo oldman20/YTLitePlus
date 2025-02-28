@@ -3,11 +3,11 @@
 
  * Others:
 
-https://filebin.net/vbcma3o95sl1y10y 21/02 Expire
+ https://filebin.net/k9y0s0gq62w0q7dv 06/03 Expire
 
-YT 20.06.03
+YT 20.08.03
 
-YTM 8.06.2
+YTM 8.08.5
 
 https://armconverter.com/decryptedappstore/us/youtube     ||      https://decrypt.day
 
@@ -17,7 +17,7 @@ https://github.com/thaibm92/YouPiP 1.12.2 (since 1.8.15 error loading with YT 19
 
 https://github.com/34306/Patched-TS-App 1.0
 
-`C:\Users\Administrator\AppData\Local\Sideloadly\METARIALS`
+`C:\Users\Admin\AppData\Local\Sideloadly\MATERIALS`
 
   <img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Banner.png" alt="YTLitePlus Banner" />
 </p>
