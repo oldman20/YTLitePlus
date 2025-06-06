@@ -11,11 +11,11 @@ YTM 8.22.2
 
 https://armconverter.com/decryptedappstore/us/youtube     ||      https://decrypt.day
 
-https://github.com/dayanch96/YTLite 5.1 (has no PiP mode)
+https://github.com/dayanch96/YTLite 5.2B1 (has no PiP mode)
 
 https://github.com/thaibm92/YouPiP 1.12.7 (since 1.8.15 error loading with YT 19.43.2)
 
-https://github.com/kekeimiku/LuckySpeeder/releases 0.0.8
+https://github.com/kekeimiku/LuckySpeeder/releases 0.0.9 [use arm64-apple-ios verison]
 
 https://github.com/34306/Patched-TS-App 1.0
 
