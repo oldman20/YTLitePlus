@@ -5,7 +5,7 @@
 
 https://filebin.net/2u3dv0wlo3obco7o 22/05 Expire
 
-YT 20.19.3
+YT 20.19.3 [Since 20.22.1 require iOS 16+]
 
 YTM 8.19.2
 
